@@ -7,7 +7,7 @@ This script is a System Tray GUI for an external application's status and requir
 
 ---
 
-###Step 1: Install System Dependencies (Debian/Ubuntu)
+##Step 1: Install System Dependencies (Debian/Ubuntu)
 
 The script uses PyGObject to bind to GTK and AppIndicator3. You must install the necessary system packages using apt.
 
@@ -30,7 +30,7 @@ Note: On newer Ubuntu versions, libappindicator3-1 may be replaced by libayatana
 
 ---
 
-###Step 2: Get Script and Icon Files
+##Step 2: Get Script and Icon Files
 
 The easiest way to get the script and the required 'icons/' folder is by cloning the Git repository into your home directory (~/).
 
@@ -43,7 +43,7 @@ git clone https://github.com/UbuntuRikard/Make_ClusterProcessing_for_Shotcut
 
 ---
 
-###Step 3: Run the Script
+##Step 3: Run the Script
 
 Once all dependencies are met, you can run the script directly from the terminal:
 
