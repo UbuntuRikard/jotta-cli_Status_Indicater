@@ -1,4 +1,4 @@
-#Required Dependencies
+# Required Dependencies
 
 This script is a System Tray GUI for an external application's status and requires the following system libraries and Python packages to be installed to function correctly on a Debian or Ubuntu system.
 

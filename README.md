@@ -27,7 +27,7 @@ Thus, the jotta_status_indicator.py program is simply a user interface for the e
 #### Note/Addition:
 
 ###### Please note: For the first minute after the computer starts, a warning that something is wrong may typically appear. This is because jottad must first connect to its server, and until it does, running jotta_cli status will show an error status. If it takes longer than a minute for the system to be ready and connected to the server, something may be wrong, and you can then choose to open the "Actual Status" menu to see what is happening.
-Jotta_status_indicator checks the status every 5 seconds. Therefore, synchronization periods shorter than 5 seconds may not necessarily be visible live, but if synchronization is completed without issues, the status will still be green and thus correct.
+##### Jotta_status_indicator checks the status every 5 seconds. Therefore, synchronization periods shorter than 5 seconds may not necessarily be visible live, but if synchronization is completed without issues, the status will still be green and thus correct.
 ---
 
 ## 🛠️ Installation and Setup
