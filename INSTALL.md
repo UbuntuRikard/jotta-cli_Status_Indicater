@@ -38,7 +38,7 @@ Open a terminal and run the following command:
 
 ```bash
 cd ~
-git clone https://github.com/UbuntuRikard/Make_ClusterProcessing_for_Shotcut
+git clone https://github.com/UbuntuRikard/jotta-cli_Status_Indicater
 ```
 
 ---
