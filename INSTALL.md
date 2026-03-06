@@ -38,7 +38,7 @@ Open a terminal and run the following command:
 
 ```bash
 cd ~
-git clone https://github.com/UbuntuRikard/jotta-cli_Status_Indicater
+git clone https://codeberg.org/ubunturikard/jotta-cli_Status_Indicater
 ```
 
 ---
